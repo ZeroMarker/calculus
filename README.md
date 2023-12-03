@@ -7,3 +7,6 @@
 [100 derivatives, extreme calculus 1 tutorial](https://www.youtube.com/watch?v=AegzQ_dip8k)
 
 [Calculus 1 - Full College Course](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
+
+[111S103 Calculus (2) (Kwok-Wing Tsoi)](https://www.youtube.com/playlist?list=PLCX-BLZ1hDpDyJhcvZNaGcomSTAgfPfKC)
+
