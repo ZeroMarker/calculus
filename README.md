@@ -10,3 +10,10 @@
 
 [111S103 Calculus (2) (Kwok-Wing Tsoi)](https://www.youtube.com/playlist?list=PLCX-BLZ1hDpDyJhcvZNaGcomSTAgfPfKC)
 
+[Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)
+
+If $F(x)$ is an antiderivative of $f(x)$ on $[a, b]$, then the Newton-Leibniz formula is given by:
+
+$$
+\int_{a}^{b} f(x) \,dx = F(b) - F(a)
+$$
